@@ -1,0 +1,41 @@
+body{
+    color: #bfc1c8 !important;
+    
+}
+a{
+    color: #fff !important;
+}
+.app-container{
+    background-image: url(../imgs/banner.png);
+    background-repeat: no-repeat;
+}
+.active{
+    color: #009ad8 !important;
+    border: solid 1px #009ad8 !important;
+    border-radius: 50px !important;
+}
+.nav-link{
+    padding-inline: 20px !important;
+    transition: all 0.4s;
+}
+.nav-link:hover{
+    color: #009ad8 !important;
+    border: solid 1px #009ad8 !important;
+    border-radius: 50px !important;
+}
+.bg-main-color{
+    background-color: #1e202b;
+}
+.bg-item1{
+    background: #323544;
+}
+.bg-header-color{
+    background: rgba(0, 0, 0, 0.1);
+}
+.time{
+    width: 50px;
+    height: 50px;
+}
+.app-footer{
+    background-color:#323544;
+}
